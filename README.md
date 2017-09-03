@@ -1,0 +1,1 @@
+# pkgadd--d-http-get.opencsw.org-now-opt-csw-bin-pkgutil--U-opt-csw-bin-pkgutil--a-vim-opt-csw-bi
